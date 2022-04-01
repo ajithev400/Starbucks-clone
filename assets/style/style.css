@@ -410,5 +410,9 @@ section{
     .footer-policy-section span{
         display: none;
     }
+    .footer-items{
+        max-width: 372px;
+    }
+    
 }
 
