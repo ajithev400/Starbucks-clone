@@ -379,6 +379,7 @@ section{
     .nav-conatiner-mobile{
         display: none;
     }
+
 }
 @media screen and (max-width:768px){
     .navbar-container{
@@ -411,7 +412,7 @@ section{
         display: none;
     }
     .footer-items{
-        max-width: 704px;
+        width: 100%;
     }
     
 }
