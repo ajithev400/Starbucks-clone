@@ -215,6 +215,7 @@ body{
     background-color: transparent;
 }
 .button--light:is(:hover, :focus){
+    color: #fff;
     border: 1px solid var(--white);
     background-color: var(--whiteHover);
 }
